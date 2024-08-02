@@ -1,8 +1,12 @@
-[PT/BR]
+
+
+
+<details>
+  <summary>[PT/BR]</summary>
 
 # Eai 👋
 
-__### Sobre mim__
+### Sobre mim
 
 Vou compartilhar um pouco sobre minha jornada e paixões! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento front-end e atualmente pulando de cabeça no mundo da IA. Para mim, o verdadeiro valor está nas conexões e na colaboração, afinal, grandes coisas são alcançadas quando trabalhamos juntos.
 
@@ -16,9 +20,14 @@ Além de conquistas e objetivos, acredito que é importante compartilhar meu pro
 
 Me formei em Engenharia da Computação pela FIAP em Dez/2023 e estou cursando MBA em Data Science & Artificial Intelligence com data de término prevista para Mai/2025.
 
+</details>
+
+<details>
+  <summary>[EN]</summary>
+
 # Hi there 👋
 
-__### About me__
+### About me
 
 I'm going to share a little about my journey and passions! I'm a technology enthusiast, passionate about front-end development and currently jumping headfirst into the world of AI. For me, the true value is in connections and collaboration, after all, great things are achieved when we work together.
 
@@ -31,3 +40,5 @@ I want to delve even deeper into AI, exploring all the incredible opportunities 
 In addition to achievements and goals, I believe it is important to share my purpose. I'm looking for challenges that not only challenge me professionally, but also allow me to contribute in a meaningful way to the world around me. I am passionate about technology and motivated by the idea of ​​creating innovative solutions that can improve people's lives and drive progress as a whole.
 
 I graduated in Computer Engineering from FIAP in Dec/2023 and am studying an MBA in Data Science & Artificial Intelligence with an expected completion date of May/2025.
+
+</details>
