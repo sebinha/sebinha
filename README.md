@@ -2,7 +2,7 @@
 
 # Eai 👋
 
-## Sobre mim
+### Sobre mim
 
 Vou compartilhar um pouco sobre minha jornada e paixões! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento front-end e atualmente pulando de cabeça no mundo da IA. Para mim, o verdadeiro valor está nas conexões e na colaboração, afinal, grandes coisas são alcançadas quando trabalhamos juntos.
 
