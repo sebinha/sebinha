@@ -2,7 +2,7 @@
 
 # Eai 👋
 
-### Sobre mim
+__### Sobre mim__
 
 Vou compartilhar um pouco sobre minha jornada e paixões! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento front-end e atualmente pulando de cabeça no mundo da IA. Para mim, o verdadeiro valor está nas conexões e na colaboração, afinal, grandes coisas são alcançadas quando trabalhamos juntos.
 
@@ -18,7 +18,7 @@ Me formei em Engenharia da Computação pela FIAP em Dez/2023 e estou cursando M
 
 # Hi there 👋
 
-### About me
+__### About me__
 
 I'm going to share a little about my journey and passions! I'm a technology enthusiast, passionate about front-end development and currently jumping headfirst into the world of AI. For me, the true value is in connections and collaboration, after all, great things are achieved when we work together.
 
