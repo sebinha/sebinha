@@ -1,5 +1,5 @@
-[!NOTE]
-[PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
+> [!NOTE]
+> [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
 
 <details>
   <summary>[PT/BR]</summary>
