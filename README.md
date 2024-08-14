@@ -1,6 +1,8 @@
 > [!NOTE]
 > [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
 
+> ![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
+
 <details>
   <summary>[PT/BR]</summary>
 
@@ -42,4 +44,3 @@ In addition to achievements and goals, I believe it is important to share my pur
 I graduated in Computer Engineering from FIAP in Dec/2023 and am studying an MBA in Data Science & Artificial Intelligence with an expected completion date of May/2025.
 
 </details>
-![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
