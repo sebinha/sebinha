@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
+
 > [!NOTE]
 > [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
 
