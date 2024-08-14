@@ -1,7 +1,7 @@
 > [!NOTE]
 > [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
 
-> ![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
+ <p align="center"> ![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true) <p/>
 
 <details>
   <summary>[PT/BR]</summary>
