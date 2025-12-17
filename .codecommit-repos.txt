@@ -1,0 +1,4 @@
+virtseg-app
+virtsel-front-template
+itinerum-app
+core-app

@@ -1,5 +1,4 @@
-> [!NOTE]
-> [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
+> [!NOTE] > [PT/BR] Todas informações colapsadas para uma melhor visualização. / [EN] All informations collapsed for a better visualization.
 
 > <a href="https://victorfernandesportfolio.vercel.app/"> Portfolio <a/>
 
@@ -45,4 +44,10 @@ I graduated in Computer Engineering from FIAP in Dec/2023 and am studying an MBA
 
 </details>
 
->![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
+> ![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
+
+<!-- CODECOMMIT:START -->
+
+_Gerando…_
+
+<!-- CODECOMMIT:END -->
