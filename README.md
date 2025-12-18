@@ -1,6 +1,5 @@
 > [!NOTE]
-> **[PT/BR]** Todas as informações foram colapsadas para melhor visualização.  
-> **[EN]** All information has been collapsed for better visualization.
+> **[PT/BR]** Todas as informações foram colapsadas para melhor visualização. / **[EN]** All information has been collapsed for better visualization.
 
 > <a href="https://victorfernandesportfolio.vercel.app/"> Portfolio <a/>
 
