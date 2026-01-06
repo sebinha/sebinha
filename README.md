@@ -46,9 +46,3 @@ I graduated in Computer Engineering from FIAP in Dec/2023 and am studying an MBA
 </details>
 
 > ![](https://komarev.com/ghpvc/?username=sebinha&abbreviated=true)
-
-<!-- CODECOMMIT:START -->
-
-_Gerando…_
-
-<!-- CODECOMMIT:END -->
